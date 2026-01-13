@@ -1,10 +1,11 @@
 # <img src="/assets/png/Logo_Blue.png?raw=true" alt="AltDirect" height="25"> AltDirect
+### by [CelloSerenity](https://github.com/CelloSerenity)
 
-[![pages-build-deployment](https://github.com/CelloSerenity/altdirect/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/CelloSerenity/altdirect/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/StikStore/altdirect/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/StikStore/altdirect/actions/workflows/pages/pages-build-deployment)
 
-A tiny, dependency‑free static helper page for launching AltStore Sources (AltSources) in your preferred sideloading app. Paste or pass an AltSource feed URL and quickly open it in SideStore, AltStore Classic, Feather, or LiveContainer.
+A tiny, dependency‑free static helper page for launching AltStore Sources (AltSources) in your preferred sideloading app. Paste or pass an AltSource feed URL and quickly open it in StikStore, SideStore, AltStore Classic, Feather, or LiveContainer.
 
-Live page: https://celloserenity.github.io/altdirect/
+Live page: https://stikstore.github.io/altdirect/
 
 ---
 > [!NOTE]
@@ -76,9 +77,9 @@ Create a link using the parameters outlined above and insert it into the followi
 ```html
 <!-- you can set the alighnment here to left/center/right -->
 <h1 align="left">
-<a href="https://celloserenity.github.io/altdirect/?url=https://example.com/source.json"><img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" target="_blank" width="200">
+<a href="https://stikstore.github.io/altdirect/?url=https://example.com/source.json"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" target="_blank" width="200">
 </a>
-<a href="https://example.com/app.ipa"><img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" target="_blank" width="200">
+<a href="https://example.com/app.ipa"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" target="_blank" width="200">
 </a>
 </h1>
 ```
@@ -86,9 +87,9 @@ Create a link using the parameters outlined above and insert it into the followi
 Together, they appear as:
 
 <h1 align="left">
-<a href="https://celloserenity.github.io/altdirect/?url=https://example.com/source.json" target="_blank"><img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" width="200">
+<a href="https://stikstore.github.io/altdirect/?url=https://example.com/source.json" target="_blank"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" width="200">
 </a>
-<a href="https://example.com/app.ipa" target="_blank"><img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" width="200">
+<a href="https://example.com/app.ipa" target="_blank"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" width="200"
 </a>
 </h1>
 
@@ -101,16 +102,16 @@ Pretty nice, huh?
 
 ## Examples
 
-Using the hosted page at https://celloserenity.github.io/altdirect:
+Using the hosted page at https://stikstore.github.io/altdirect:
 
 - Display redirectors for an AltStore Source:
-  - `https://celloserenity.github.io/altdirect/?url=https://example.com/source.json`
+  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json`
 - Hide certain app redirector:
-  - `https://celloserenity.github.io/altdirect/?url=https://example.com/source.json&exclude=altstore,feather`
+  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json&exclude=altstore,feather`
 - Direct deep link to SideStore (automatic redirect):
-  - `https://celloserenity.github.io/altdirect/?url=https://example.com/source.json&r=sidestore`
+  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json&r=sidestore`
 - All three:
-  - `https://celloserenity.github.io/altdirect/?url=https://example.com/source.json&r=sidestore&exclude=feather,livecontainer`
+  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json&r=sidestore&exclude=feather,livecontainer`
 
 ---
 
