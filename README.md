@@ -5,7 +5,7 @@
 
 A tiny, dependency‑free static helper page for launching AltStore Sources (AltSources) in your preferred sideloading app. Paste or pass an AltSource feed URL and quickly open it in StikStore, SideStore, AltStore Classic, Feather, or LiveContainer.
 
-Live page: https://stikstore.github.io/altdirect/
+Live page: https://stikstore.app/altdirect/
 
 ---
 > [!NOTE]
