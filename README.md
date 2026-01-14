@@ -16,9 +16,9 @@ Mirror: https://stikstore.github.io/altdirect
 ## What it does
 
 - Generates “Open in …” buttons for:
+  - StikStore
   - SideStore
   - AltStore Classic
-  - StikStore
   - LiveContainer (currently, only nightly)
   - Feather
 
@@ -126,7 +126,7 @@ Using the hosted page at https://stikstore.app/altdirect:
 
 ## Acknowledgments
 
-- [AltStore](https://altstore.io), [SideStore](https://sidestore.io), StikStore, [LiveContainer](https://livecontainer.github.io/), and [Feather](https://github.com/khcrysalis/Feather) are trademarks of their respective owners. This project is (as of yet) unaffiliated and simply provides convenience links.
+- [AltStore](https://altstore.io), [SideStore](https://sidestore.io), [LiveContainer](https://livecontainer.github.io/), and [Feather](https://github.com/khcrysalis/Feather) are trademarks of their respective owners. This project is unaffiliated and simply provides convenience links.
 - [Stephen](https://github.com/StephenDev0) for new UI.
 - [Transistor](https://github.com/transistor-exe) for the logo and link assets.
 - [Intradeus](https://github.com/intradeus), whose [redirector](https://github.com/intradeus/http-protocol-redirector) the project is based on.
