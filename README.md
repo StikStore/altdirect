@@ -102,7 +102,7 @@ Pretty nice, huh?
 
 ## Examples
 
-Using the hosted page at https://stikstore.github.io/altdirect:
+Using the hosted page at https://stikstore.app/altdirect:
 
 - Display redirectors for an AltStore Source:
   - `https://stikstore.app/altdirect/?url=https://example.com/source.json`
