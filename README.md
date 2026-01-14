@@ -1,4 +1,4 @@
-# <img src="/assets/png/Logo_Blue.png?raw=true" alt="AltDirect" height="25"> AltDirect
+# <img src="/assets/png/Logo_Blue.png?raw=true" alt="AltDirect" height="25"> AltDirect (Official)
 ### by [CelloSerenity](https://github.com/CelloSerenity)
 
 [![pages-build-deployment](https://github.com/StikStore/altdirect/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/StikStore/altdirect/actions/workflows/pages/pages-build-deployment)
