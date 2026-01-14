@@ -77,7 +77,7 @@ Create a link using the parameters outlined above and insert it into the followi
 ```html
 <!-- you can set the alighnment here to left/center/right -->
 <h1 align="left">
-<a href="https://stikstore.github.io/altdirect/?url=https://example.com/source.json"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" target="_blank" width="200">
+<a href="https://stikstore.app/altdirect/?url=https://example.com/source.json"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" target="_blank" width="200">
 </a>
 <a href="https://example.com/app.ipa"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" target="_blank" width="200">
 </a>
@@ -87,7 +87,7 @@ Create a link using the parameters outlined above and insert it into the followi
 Together, they appear as:
 
 <h1 align="left">
-<a href="https://stikstore.github.io/altdirect/?url=https://example.com/source.json" target="_blank"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" width="200">
+<a href="https://stikstore.app/altdirect/?url=https://example.com/source.json" target="_blank"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" width="200">
 </a>
 <a href="https://example.com/app.ipa" target="_blank"><img src="https://github.com/StikStore/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" width="200"
 </a>
@@ -105,13 +105,13 @@ Pretty nice, huh?
 Using the hosted page at https://stikstore.github.io/altdirect:
 
 - Display redirectors for an AltStore Source:
-  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json`
+  - `https://stikstore.app/altdirect/?url=https://example.com/source.json`
 - Hide certain app redirector:
-  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json&exclude=altstore,feather`
+  - `https://stikstore.app/altdirect/?url=https://example.com/source.json&exclude=altstore,feather`
 - Direct deep link to SideStore (automatic redirect):
-  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json&r=sidestore`
+  - `https://stikstore.app/altdirect/?url=https://example.com/source.json&r=sidestore`
 - All three:
-  - `https://stikstore.github.io/altdirect/?url=https://example.com/source.json&r=sidestore&exclude=feather,livecontainer`
+  - `https://stikstore.app/altdirect/?url=https://example.com/source.json&r=sidestore&exclude=feather,livecontainer`
 
 ---
 
