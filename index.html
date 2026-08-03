@@ -6,13 +6,16 @@
     <script>
         var destination = "https://altdirect.app/";
         var queryParams = window.location.search;
-        window.location.href = destination + queryParams;
+        var separator = queryParams ? "&" : "?";
+        var redirectUrl = destination + queryParams + separator + "old=true";
+
+        window.location.href = redirectUrl;
     </script>
 </head>
 <body>
-    <p>Redirecting... <a id="fallback-link" href="https://altdirect.app/">Click here if not redirected.</a></p>
+    <p>Redirecting... <a id="fallback-link" href="https://altdirect.app/?old=true">Click here if not redirected.</a></p>
     <script>
-        document.getElementById('fallback-link').href = destination + queryParams;
+        document.getElementById('fallback-link').href = redirectUrl;
     </script>
 </body>
 </html>
